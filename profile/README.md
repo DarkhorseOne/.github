@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is the R&D repo for DarkhorseOne Limited.
+
 <!--
 
 **Here are some ideas to get you started:**
