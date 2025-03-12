@@ -2,6 +2,8 @@
 
 This is the R&D repo for DarkhorseOne Limited.
 
+This is a private team, a valid invatiation is needed to gain access to it.
+
 <!--
 
 **Here are some ideas to get you started:**
