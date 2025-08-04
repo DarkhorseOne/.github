@@ -4,8 +4,14 @@ This is the R&D repo for DarkhorseOne Limited.
 
 This is a private team, a valid invatiation is needed to gain access to it.
 
+### Public Repos
+- [KillPort](https://github.com/DarkhorseOne/kill-port)
+- [Companies House MCP Server](https://github.com/DarkhorseOne/companies-house-node)
+  
 ### Current Working Projects
-- [PrimeForge (Backend)](https://github.com/DarkhorseOne/PrimeForgeAdmin)
+- [PrimeForge (Backend)](https://github.com/DarkhorseOne/PrimeForge)
+- [PrimeForge (Frontend Admin)](https://github.com/DarkhorseOne/PrimeForgeAdmin)
+- [PrimeForge (Frontend Web)](https://github.com/DarkhorseOne/PrimeForgeWeb)
 
 <!--
 
