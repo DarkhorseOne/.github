@@ -12,6 +12,10 @@ This is a private team, a valid invatiation is needed to gain access to it.
 - [PrimeForge (Backend)](https://github.com/DarkhorseOne/PrimeForge)
 - [PrimeForge (Frontend Admin)](https://github.com/DarkhorseOne/PrimeForgeAdmin)
 - [PrimeForge (Frontend Web)](https://github.com/DarkhorseOne/PrimeForgeWeb)
+- [PrimeForge (API Doc)](https://github.com/DarkhorseOne/PrimeForgeApiPortal)
+
+### Online Doc
+- [PrimeForgeApi](https://darkhorseone.github.io/PrimeForgeApiPortal/) 
 
 <!--
 
