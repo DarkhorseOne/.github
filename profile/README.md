@@ -7,6 +7,7 @@ This is a private team, a valid invatiation is needed to gain access to it.
 ### Public Repos
 - [KillPort](https://github.com/DarkhorseOne/kill-port)
 - [Companies House MCP Server](https://github.com/DarkhorseOne/companies-house-node)
+- [HTML2Image](https://github.com/DarkhorseOne/PrimeForgeHTML2Image)
   
 ### Current Working Projects
 - [PrimeForge (Backend)](https://github.com/DarkhorseOne/PrimeForge)
