@@ -18,6 +18,8 @@ This is a private team, a valid invatiation is needed to gain access to it.
 ### WWW Sites
 - [dho.ai (Backend)](https://github.com/DarkhorseOne/www.dho.ai-backend)
 - [dho.ai (Frontend)](https://github.com/DarkhorseOne/www.dho.ai-frontend)
+- [darkhorseone.co.uk (Backend)](https://github.com/DarkhorseOne/www.darkhorseone.co.uk_backend)
+- [darkhorseone.co.uk (Frontend)](https://github.com/DarkhorseOne/www.darkhorseone.co.uk_frontend)
 
 ### Online Doc
 - [PrimeForgeApi](https://darkhorseone.github.io/PrimeForgeApiPortal/) 
