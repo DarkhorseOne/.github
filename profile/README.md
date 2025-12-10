@@ -9,11 +9,11 @@ This is a private team, a valid invatiation is needed to gain access to it.
 - [Companies House MCP Server](https://github.com/DarkhorseOne/companies-house-node)
 - [HTML2Image](https://github.com/DarkhorseOne/PrimeForgeHTML2Image)
 
-### Blockchain - X402
-- [X402-Design]
-- [X402-Core]
-- [X402-Nest]
-- [X402-Next]
+### Blockchain - X402 (Middleware family, publicly available)
+- [X402-Design](https://github.com/DarkhorseOne/x402-design)
+- [X402-Core](https://github.com/DarkhorseOne/x402-core)
+- [X402-Nest](https://github.com/DarkhorseOne/x402-nest)
+- [X402-Next](https://github.com/DarkhorseOne/x402-next)
 
 ### Current Working Projects
 - [PrimeForge (Backend)](https://github.com/DarkhorseOne/PrimeForge)
