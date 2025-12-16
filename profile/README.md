@@ -10,7 +10,7 @@ This is a private team, a valid invatiation is needed to gain access to it.
 - [HTML2Image](https://github.com/DarkhorseOne/PrimeForgeHTML2Image)
 
 ### Blockchain - X402 (Middleware family, publicly available)
-- [X402-Design](https://github.com/DarkhorseOne/x402-design)
+- [X402-Design](https://github.com/DarkhorseOne/x402-design) V1.0
 - [X402-Core](https://github.com/DarkhorseOne/x402-core) V1.0.0 Release
 - [X402-Nest](https://github.com/DarkhorseOne/x402-nest)
 - [X402-Next](https://github.com/DarkhorseOne/x402-next)
