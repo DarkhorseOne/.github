@@ -27,6 +27,12 @@ This is a private team, a valid invatiation is needed to gain access to it.
 - [darkhorseone.co.uk (Backend)](https://github.com/DarkhorseOne/www.darkhorseone.co.uk_backend)
 - [darkhorseone.co.uk (Frontend)](https://github.com/DarkhorseOne/www.darkhorseone.co.uk_frontend)
 
+### Projects for Weixin Eco system [TBC]
+- Weixin Backends
+- Weixin Service
+- Weixin MiniApp
+- Weixin Work
+
 ### Online Doc
 - [PrimeForgeApi](https://darkhorseone.github.io/PrimeForgeApiPortal/) 
 
