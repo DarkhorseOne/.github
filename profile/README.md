@@ -28,7 +28,8 @@ This is a private team, a valid invatiation is needed to gain access to it.
 - [darkhorseone.co.uk (Frontend)](https://github.com/DarkhorseOne/www.darkhorseone.co.uk_frontend)
 
 ### Projects for Weixin Eco system [TBC]
-- [Weixin Backends](https://github.com/DarkhorseOne/Weixin-Backend)
+- [Weixin Backends](https://github.com/DarkhorseOne/Weixin-Backend) [Nest]
+- [Weixin Admin Console](https://github.com/DarkhorseOne/Weixin-AdminConsole) [NextJS V16.1.1]
 - Weixin Website
 - Weixin Service
 - Weixin MiniApp
