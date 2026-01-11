@@ -38,7 +38,7 @@ This is a private team, a valid invatiation is needed to gain access to it.
 - [PrimeForgeApi](https://darkhorseone.github.io/PrimeForgeApiPortal/) 
 
 ### Template
-- [Frontend-NextJs](https://github.com/DarkhorseOne/FrontendTemplateNextJs)
+- [Frontend-NextJs](https://github.com/DarkhorseOne/FrontendTemplateNextJs) [next@16.1.1]
 
 
 <!--
