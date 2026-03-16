@@ -15,6 +15,11 @@ This is a private team, a valid invatiation is needed to gain access to it.
 - [X402-Nest](https://github.com/DarkhorseOne/x402-nest) V1.0.0
 - [X402-Next](https://github.com/DarkhorseOne/x402-next)
 
+### ProperSorted (AI-Powered MTD Software for UK Landlords)
+- [Docs](https://github.com/DarkhorseOne/ProperSorted-Docs)
+- [Website](https://github.com/DarkhorseOne/ProperSorted-Website)
+- [Backend Server](https://github.com/DarkhorseOne/ProperSorted-Server)
+
 ### Current Working Projects
 - [PrimeForge (Backend)](https://github.com/DarkhorseOne/PrimeForge)
 - [PrimeForge (Frontend Admin)](https://github.com/DarkhorseOne/PrimeForgeAdmin)
